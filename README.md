@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0001-two-sum](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
