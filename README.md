@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
