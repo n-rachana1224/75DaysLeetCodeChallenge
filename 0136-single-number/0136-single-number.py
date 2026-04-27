@@ -1,6 +1,6 @@
 class Solution(object):
     def singleNumber(self, nums):
-       for i in nums:
-        if nums.count(i) ==1:
-            return i
-        
+        result = 0
+        for num in nums:
+            result ^= num
+        return result
