@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0049-group-anagrams](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0128-longest-consecutive-sequence](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
