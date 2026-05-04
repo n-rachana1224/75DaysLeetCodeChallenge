@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0075-sort-colors](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0075-sort-colors](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0075-sort-colors](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
