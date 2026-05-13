@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/n-rachana1224/75-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
