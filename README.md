@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
