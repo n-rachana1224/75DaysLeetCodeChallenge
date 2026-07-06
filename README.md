@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1137-n-th-tribonacci-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1137-n-th-tribonacci-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [3895-count-digit-appearances](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/3895-count-digit-appearances) |
 ## Monotonic Stack
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
