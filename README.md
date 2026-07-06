@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1518-water-bottles](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
