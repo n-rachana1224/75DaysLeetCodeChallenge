@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3895-count-digit-appearances](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
