@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [3895-count-digit-appearances](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/3895-count-digit-appearances) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
