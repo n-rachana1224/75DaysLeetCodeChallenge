@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
+| [2652-sum-multiples](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/2652-sum-multiples) |
 | [3895-count-digit-appearances](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/3895-count-digit-appearances) |
 ## Monotonic Stack
 |  |
