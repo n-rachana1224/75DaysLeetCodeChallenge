@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/n-rachana1224/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
